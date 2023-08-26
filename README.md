@@ -2,7 +2,7 @@
 - 👀 I’m interested in new ideas and creativity on app development.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on web development.
-- 📫 How to reach me ...
+- 📫 How to reach me gmail : shailprd69@gmail.com
 
 <!---
 Shail-Pradhan/Shail-Pradhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
