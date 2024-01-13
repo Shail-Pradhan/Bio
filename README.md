@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shail-Pradhan
-- 👀 I’m interested in new ideas and creativity on app development.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on web development.
+- 👀 I’m interested in new ideas and creativity.
+- 🌱 I’m currently learning machine learning with python.
+- 💞️ I’m looking to collaborate on web development too.
 - 📫 How to reach me gmail : shailprd69@gmail.com
 
 <!---
