@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Shail-Pradhan
 - 👀 I’m interested in working with new people.
 - 🌱 I’m currently living in Sikkim.
-- 💞️ I’m looking to collaborate new projects.
-- 📫 How to reach me gmail : shail.pradhan@icloud.com
+- 💞️ I’m looking to collaborate on new projects.
+- 📫 How to reach me : shail.pradhan@icloud.com
 
 <!---
 Shail-Pradhan/Shail-Pradhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
